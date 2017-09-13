@@ -7,4 +7,5 @@
 * [Eric Meyer(2011)](http://merrier.github.io/CSS-Reset/eric/reset.css)
 * [html5reset(2016)](http://merrier.github.io/CSS-Reset/html5reset/reset.css)
 * [阿里Kissy框架(2009)](http://merrier.github.io/CSS-Reset/kissy/reset.css)
-* [张鑫旭(2010)](http://merrier.github.io/CSS-Reset//reset.css)
+* [张鑫旭(2010)](http://merrier.github.io/CSS-Reset/zhangxinxu/reset.css)
+* [一丝(2013)](http://merrier.github.io/CSS-Reset/yisibl/nest.css)
