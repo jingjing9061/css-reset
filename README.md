@@ -1,4 +1,4 @@
-# crr-reset
+# css-reset
 总结了css reset的不同方案，向前辈们致敬！
 > 为了保证命名的统一性，所有的css都命名为reset.css。可以直接点击下面的链接查看源码
 
